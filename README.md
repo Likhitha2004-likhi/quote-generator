@@ -18,17 +18,10 @@ A beautiful, responsive quote generator that supports both **English** and **Kan
 
 ---
 
-## 📸 Screenshots
-
-> _Add your screenshots here if available for preview_
-
----
-
 ## 🚀 Live Demo
 
 > [Click here to view live on GitHub Pages](https://github.com/Likhitha2004-likhi/quote-generator.git/)
 
-_(Update the above link with your GitHub Pages deployment URL)_
 
 ---
 
